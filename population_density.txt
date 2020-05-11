@@ -1,0 +1,235 @@
+Rank	Country	Area(km2)	Area(mi2)	Population	Density(/km2)	Density(/mi2)	Date	Source
+1 	 Monaco 	2.02 	0.78 	38,300 	18,960 	49,106 	December 31, 2018 	Official estimate
+2 	 Singapore 	722.5 	279 	5,703,600 	7,894 	20,445 	July 1, 2019 	Official estimate
+– 	 Hong Kong (China) 	1,106 	427 	7,500,700 	6,782 	17,565 	December 31, 2019 	Official estimate
+– 	 Gibraltar (United Kingdom) 	6.8 	2.6 	33,701 	4,956 	12,836 	July 1, 2019 	UN projection
+3 	 Bahrain 	778 	300 	1,543,300 	1,983 	5,136 	July 1, 2019 	Official annual projection
+4 	 Malta 	315 	122 	493,559 	1,510 	3,911 	July 10, 2019 	Official Estimate
+5 	 Maldives 	298 	115 	374,775 	1,258 	3,258 	December 31, 2018 	Official estimate
+6 	 Bangladesh 	143,998 	55,598 	168,563,204 	1,171 	3,032 	May 6, 2020 	Official population clock
+7 	  Vatican City[note 1] 	0.49 	0.19 	453 	924 	2,393 	February 1, 2019 	Official estimate
+8 	 Lebanon 	10,452 	4,036 	6,855,713 	672 	1,740 	July 1, 2019 	UN projection
+9 	 Barbados 	430 	166 	287,025 	668 	1,730 	July 1, 2019 	UN projection
+– 	 Taiwan 	36,197 	13,976 	23,604,265 	652 	1,689 	January 31, 2020 	Monthly official estimate
+10 	 Mauritius 	2,040 	788 	1,265,577 	620 	1,606 	July 1, 2018 	Official estimate
+11 	 San Marino 	61 	24 	34,641 	568 	1,471 	April 30, 2019 	Official monthly estimate
+12 	 Nauru 	21 	8 	11,200 	533 	1,380 	July 1, 2020 	Annual projection
+13 	 South Korea 	100,210 	38,691 	51,780,579 	517 	1,339 	July 1, 2020 	Official annual projection
+14 	 Rwanda 	26,338 	10,169 	12,374,397 	470 	1,217 	July 1, 2019 	Official projection
+15 	 Comoros 	1,861 	719 	873,724 	469 	1,215 	July 1, 2019 	Official projection
+– 	Saint Barthélemy (France) 	21 	8 	9,427 	449 	1,163 	January 1, 2014 	Official estimate
+16 	 Netherlands 	41,526 	16,033 	17,462,931 	421 	1,089 	May 6, 2020 	Official population clock
+17 	 Israel 	22,072 	8,522 	9,192,580 	416 	1,079 	May 6, 2020 	Official population clock
+18 	 Haiti 	27,065 	10,450 	11,263,077 	416 	1,077 	July 1, 2019 	UN projection
+19 	 India 	3,287,240 	1,269,211 	1,361,905,814 	414 	1,073 	May 6, 2020 	Population clock
+20 	 Burundi 	27,816 	10,740 	11,215,578 	403 	1,044 	July 1, 2020 	Official annual projection
+21 	 Tuvalu 	26 	10 	10,300 	396 	1,026 	July 1, 2020 	Annual projection
+22 	 Belgium 	30,689 	11,849 	11,524,454 	376 	974 	January 1, 2020 	Official monthly estimate
+23 	 Philippines 	300,000 	115,831 	108,589,030 	362 	937 	May 6, 2020 	Official population clock
+– 	 Curaçao (Netherlands) 	444 	171 	158,665 	357 	925 	January 1, 2019 	Official Estimate
+– 	 Puerto Rico (United States) 	9,104 	3,515 	3,195,153 	351 	909 	July 1, 2018 	Official estimate
+– 	Réunion (France) 	2,503.7 	967 	850,996 	340 	881 	January 1, 2016 	Official estimate
+24 	 Japan 	377,975 	145,937 	126,010,000 	333 	862 	February 1, 2020 	Monthly official estimate
+25 	 Sri Lanka 	65,610 	25,332 	21,803,000 	332 	860 	July 1, 2019 	Official estimate
+– 	Martinique (France) 	1,128 	436 	371,246 	329 	852 	January 1, 2018 	Official estimate
+– 	 Guam (United States) 	541 	209 	175,200 	324 	839 	July 1, 2019 	Annual projection
+26 	 El Salvador 	21,040 	8,124 	6,704,864 	319 	826 	July 1, 2019 	Official annual projection
+27 	 Grenada 	344 	133 	108,825 	316 	818 	July 1, 2019 	UN projection
+28 	 Marshall Islands 	181 	70 	55,900 	309 	800 	July 1, 2020 	Annual projection
+– 	 United States Virgin Islands (United States) 	352 	136 	104,909 	298 	772 	July 1, 2019 	UN projection
+29 	 Saint Lucia 	617 	238 	180,454 	292 	756 	July 1, 2019 	UN projection
+– 	 American Samoa (United States) 	197 	76 	57,100 	290 	751 	July 1, 2020 	Annual projection
+30 	 Vietnam 	331,212 	127,882 	96,208,984 	290 	751 	April 1, 2019 	Official annual projection
+31 	 Saint Vincent and the Grenadines 	389 	150 	110,520 	284 	736 	July 1, 2018 	Official estimate
+32 	 United Kingdom 	242,910 	93,788 	66,435,600 	274 	710 	July 1, 2018 	Official estimate
+33 	 Pakistan 	803,940 	310,403 	220,230,137 	274 	709 	May 6, 2020 	Official population clock
+34 	 Trinidad and Tobago 	5,155 	1,990 	1,363,985 	265 	686 	July 1, 2019 	Official annual estimate
+– 	Cayman Islands (United Kingdom) 	259 	100 	65,813 	254 	658 	December 31, 2018 	Official estimate
+35 	 Kuwait 	17,818 	6,880 	4,420,110 	248 	642 	January 1, 2019 	Official estimate
+36 	 Jamaica 	10,991 	4,244 	2,726,667 	248 	642 	December 31, 2018 	Official estimate
+– 	Guadeloupe (France) 	1,628.4 	629 	395,725 	243 	629 	January 1, 2016 	Official estimate
+37 	 Liechtenstein 	160 	62 	38,380 	240 	622 	December 31, 2018 	Official estimate
+38 	 Luxembourg 	2,586 	998 	613,894 	237 	614 	January 1, 2019 	Official estimate
+39 	 Qatar 	11,571 	4,468 	2,740,479 	237 	614 	May 31, 2019 	Official monthly estimate
+40 	 Antigua and Barbuda 	442 	171 	104,084 	235 	609 	July 1, 2019 	UN projection
+41 	 Germany 	357,168 	137,903 	83,149,300 	233 	603 	September 30, 2019 	Official quarterly estimate
+42 	 Nigeria 	923,768 	356,669 	200,962,000 	218 	565 	July 1, 2019 	UN projection
+43 	 Dominican Republic 	47,875 	18,485 	10,358,320 	216 	559 	July 1, 2019 	Official projection
+44 	 Seychelles 	455 	176 	96,762 	213 	552 	June 30, 2018 	Official estimate
+– 	 British Virgin Islands (United Kingdom) 	151 	58 	32,206 	213 	552 	July 1, 2019 	UN projection
+45 	 North Korea 	120,540 	46,541 	25,450,000 	211 	546 	July 1, 2019 	UN projection
+46 	 Saint Kitts and Nevis 	270 	104 	56,345 	209 	541 	July 1, 2019 	UN projection
+47 	 Gambia 	10,690 	4,127 	2,228,075 	208 	539 	July 1, 2019 	UN projection
+48 	  Switzerland 	41,285 	15,940 	8,586,550 	208 	539 	September 30, 2019 	Official provisional figure
+49 	 São Tomé and Príncipe 	1,001 	386 	201,784 	202 	523 	July 1, 2018 	Official Estimate
+50 	   Nepal 	147,181 	56,827 	29,609,623 	201 	521 	July 1, 2019 	Official annual projection
+51 	 Italy 	301,308 	116,336 	60,252,824 	200 	518 	August 31, 2019 	Monthly official estimate
+52 	 Uganda 	241,551 	93,263 	40,006,700 	166 	430 	July 1, 2019 	Annual official estimate
+– 	 Kosovo[note 2] 	10,910 	4,212 	1,795,666 	165 	427 	December 31, 2018 	Official estimate
+53 	 Andorra 	464 	179 	76,177 	164 	425 	December 31, 2018 	Official estimate
+54 	 Guatemala 	108,889 	42,042 	17,679,735 	162 	420 	July 1, 2019 	Official annual projection
+55 	 Kiribati 	811 	313 	125,000 	154 	399 	July 1, 2020 	Annual projection
+– 	Sint Eustatius (Netherlands) 	21 	8 	3,193 	152 	394 	July 1, 2015 	
+56 	 Federated States of Micronesia 	701 	271 	105,600 	151 	391 	July 1, 2020 	Annual projection
+– 	Saba (Netherlands) 	13 	5 	1,947 	150 	388 	January 1, 2016 	
+57 	 Cyprus 	5,896 	2,276 	875,900 	149 	386 	December 31, 2018 	Official estimate
+58 	 Malawi 	118,484 	45,747 	17,563,749 	148 	383 	September 3, 2018 	2018 Census Result
+– 	 Isle of Man (United Kingdom) 	572 	221 	83,314 	146 	378 	April 24, 2016 	2016 census result
+59 	 China 	9,640,821 	3,722,342 	1,402,523,840 	145 	377 	May 6, 2020 	Official estimate
+60 	 Indonesia 	1,904,569 	735,358 	268,074,600 	141 	365 	July 1, 2019 	Official annual projection
+– 	 Tokelau (New Zealand) 	10 	4 	1,400 	140 	363 	July 1, 2020 	Annual projection
+– 	 Anguilla (United Kingdom) 	96 	37 	13,452 	140 	363 	May 11, 2011 	Preliminary 2011 census result
+61 	 Tonga 	720 	278 	100,000 	139 	360 	July 1, 2020 	Annual projection
+62 	 Cape Verde 	4,033 	1,557 	550,483 	136 	352 	July 1, 2019 	Official annual projection
+63 	 Czech Republic 	78,867 	30,451 	10,681,161 	135 	350 	September 30, 2019 	Official quarterly estimate
+64 	 Denmark 	43,098 	16,640 	5,814,461 	135 	350 	July 1, 2019 	Official quarterly estimate
+65 	 Togo 	56,600 	21,853 	7,538,000 	133 	344 	July 1, 2019 	Official estimate
+66 	 Thailand 	513,120 	198,117 	66,501,780 	130 	336 	May 6, 2020 	Official population clock
+67 	 Ghana 	238,533 	92,098 	30,280,811 	127 	329 	July 1, 2019 	Official projection
+– 	 Northern Mariana Islands (United States) 	457 	176 	56,600 	124 	321 	July 1, 2020 	Annual projection
+68 	 France 	543,965 	210,026 	67,060,000 	123 	319 	December 1, 2019 	Monthly official estimate
+69 	 Poland 	312,685 	120,728 	38,386,000 	123 	319 	June 30, 2019 	Official estimate
+70 	 Jordan 	89,342 	34,495 	10,674,012 	119 	309 	May 6, 2020 	Official population clock
+71 	 United Arab Emirates 	83,600 	32,278 	9,770,529 	117 	303 	July 1, 2019 	UN projection
+72 	 Azerbaijan 	86,600 	33,436 	10,067,108 	116 	300 	January 1, 2020 	Official publication
+– 	 Transnistria[note 3] 	4,163 	1,607 	469,000 	113 	293 	January 1, 2018 	Official estimate
+73 	 Portugal 	92,090 	35,556 	10,276,617 	112 	290 	December 31, 2018 	Official estimate
+74 	 Slovakia 	49,036 	18,933 	5,450,421 	111 	287 	December 31, 2018 	Official estimate
+75 	 Sierra Leone 	71,740 	27,699 	7,901,454 	110 	285 	July 1, 2019 	Official annual projection
+76 	 Austria 	83,879 	32,386 	8,902,600 	106 	275 	January 1, 2020 	Official quarterly estimate
+77 	 Turkey 	783,562 	302,535 	83,154,997 	106 	275 	December 31, 2019 	Annual official estimate
+– 	 Northern Cyprus[note 4] 	3,355 	1,295 	351,965 	105 	272 	December 31, 2017 	Official estimate
+78 	 Hungary 	93,029 	35,919 	9,764,000 	105 	272 	January 1, 2019 	Annual official estimate
+79 	 Benin 	112,622 	43,484 	11,733,059 	104 	269 	July 1, 2019 	Official annual projection
+80 	 Slovenia 	20,273 	7,827 	2,084,301 	103 	267 	January 1, 2019 	Official quarterly estimate
+81 	 Cuba 	109,884 	42,426 	11,209,628 	102 	264 	December 31, 2018 	Official annual estimate
+82 	 Ethiopia 	1,063,652 	410,678 	107,534,882 	101 	262 	July 1, 2018 	UN projection
+83 	 Egypt 	1,002,450 	387,048 	100,340,655 	100 	259 	May 6, 2020 	Official population clock
+84 	 Albania 	28,703 	11,082 	2,862,427 	100 	259 	January 1, 2019 	Official annual estimate
+85 	 Malaysia 	330,803 	127,724 	32,771,760 	99 	257 	May 6, 2020 	Official population clock
+86 	 Costa Rica 	51,100 	19,730 	5,058,007 	99 	256 	June 30, 2019 	Official estimate
+87 	 Armenia 	29,743 	11,484 	2,957,500 	99 	256 	September 30, 2019 	Official quarterly estimate
+88 	 Dominica 	739 	285 	71,808 	97 	251 	July 1, 2019 	UN projection
+89 	 Spain 	505,990 	195,364 	46,934,632 	93 	241 	July 1, 2019 	Official estimate
+90 	 Syria 	185,180 	71,498 	17,070,135 	92 	238 	July 1, 2019 	UN projection
+91 	 Cambodia 	181,035 	69,898 	16,289,270 	90 	233 	July 1, 2019 	Official annual projection
+92 	 Iraq 	438,317 	169,235 	39,309,783 	90 	233 	July 1, 2019 	UN projection-
+93 	 Serbia 	77,474 	29,913 	6,901,188 	89 	231 	July 1, 2019 	Official estimate
+94 	 Kenya 	581,834 	224,647 	47,564,296 	82 	212 	August 31, 2019 	2019 census result
+95 	 Senegal 	196,722 	75,955 	16,209,125 	82 	212 	July 1, 2019 	Official projection
+– 	Wallis & Futuna (France) 	142 	55 	11,600 	82 	212 	July 1, 2020 	Annual projection
+96 	 Honduras 	112,492 	43,433 	9,158,345 	81 	210 	July 1, 2019 	Official projection
+97 	 Romania 	238,391 	92,043 	19,405,156 	81 	210 	January 1, 2019 	Official annual estimate
+98 	 Greece 	131,957 	50,949 	10,724,599 	81 	210 	January 1, 2019 	Official estimate
+99 	 North Macedonia 	25,713 	9,928 	2,077,132 	81 	210 	December 31, 2018 	Official estimate
+100 	 Myanmar 	676,577 	261,228 	54,339,766 	80 	207 	July 1, 2019 	Official annual projection
+101 	 Ivory Coast 	322,921 	124,680 	25,823,071 	80 	207 	January 1, 2019 	Official projection
+102 	 Morocco 	446,550 	172,414 	35,889,489 	80 	208 	May 6, 2020 	Official population clock
+– 	 French Polynesia (France) 	3,521 	1,359 	280,600 	80 	207 	July 1, 2020 	Annual projection
+103 	 Moldova 	33,843 	13,067 	2,681,735 	79 	205 	January 1, 2019 	Official estimate
+104 	 Timor-Leste 	14,919 	5,760 	1,167,242 	78 	202 	July 11, 2015 	Preliminary 2015 census result
+– 	 Turks and Caicos Islands (United Kingdom) 	497 	192 	37,910 	76 	197 	July 1, 2016 	Official estimate
+105 	 Lesotho 	30,355 	11,720 	2,263,010 	75 	194 	July 1, 2018 	UN projection
+106 	 Burkina Faso 	270,764 	104,543 	20,244,080 	75 	194 	July 1, 2018 	Annual official projection
+107 	 Uzbekistan 	447,400 	172,742 	32,653,900 	73 	189 	January 1, 2018 	Official estimate
+108 	 Brunei 	5,765 	2,226 	421,300 	73 	189 	July 1, 2017 	Official estimate
+109 	 Croatia 	56,542 	21,831 	4,087,843 	72 	186 	July 1, 2018 	Annual official estimate
+110 	 Tunisia 	163,610 	63,170 	11,722,038 	72 	186 	July 1, 2019 	Official estimate
+111 	 Samoa 	2,831 	1,093 	199,300 	70 	181 	July 1, 2020 	Annual projection
+112 	Ireland 	70,273 	27,133 	4,921,500 	70 	181 	April 1, 2019 	Official annual estimate
+113 	 Ukraine [note 5] 	603,000 	232,820 	41,902,416 	69 	179 	January 1, 2020 	Official monthly estimate
+114 	 Bosnia and Herzegovina 	51,209 	19,772 	3,511,372 	69 	179 	July 1, 2016 	Official estimate
+115 	 Eswatini (Swaziland) 	17,364 	6,704 	1,159,250 	67 	174 	July 1, 2018 	Official projection
+– 	Bonaire (Netherlands) 	288 	111 	18,905 	66 	171 	December 31, 2014 	
+116 	 Yemen 	455,000 	175,676 	28,915,284 	64 	166 	July 1, 2018 	UN projection
+– 	 Cook Islands (New Zealand) 	237 	92 	15,250 	64 	166 	July 1, 2020 	Annual projection
+117 	 Mexico 	1,967,138 	759,516 	126,577,691 	64 	166 	July 1, 2019 	Official estimate
+118 	 Tajikistan 	143,100 	55,251 	9,127,000 	64 	166 	January 1, 2019 	Official estimate
+119 	 Bulgaria 	111,002 	42,858 	7,000,039 	63 	163 	December 31, 2018 	Official annual estimate
+120 	 Ecuador 	276,841 	106,889 	17,479,708 	63 	164 	May 6, 2020 	Official projection
+121 	 Tanzania 	945,087 	364,900 	55,890,747 	59 	153 	July 1, 2019 	Official annual projection
+122 	 Panama 	74,177 	28,640 	4,158,783 	56 	145 	July 1, 2018 	Official projection
+123 	 Georgia 	69,700 	26,911 	3,729,600 	54 	140 	January 1, 2018 	Official estimate
+124 	 Nicaragua 	121,428 	46,884 	6,393,824 	53 	137 	July 1, 2017 	Official estimate
+125 	 Cameroon 	466,050 	179,943 	24,348,251 	52 	135 	July 1, 2019 	Official projection
+126 	 Iran 	1,648,195 	636,372 	83,423,822 	51 	131 	May 6, 2020 	Official population clock
+– 	Norfolk Island (Australia) 	35 	14 	1,748 	50 	129 	August 9, 2016 	census result
+127 	 Guinea 	245,857 	94,926 	12,218,357 	50 	129 	July 1, 2019 	official projection
+128 	Afghanistan 	645,807 	249,347 	31,575,018 	49 	127 	July 1, 2018 	Official estimate
+– 	 Montserrat (United Kingdom) 	102 	39 	4,922 	48 	124 	May 12, 2011 	2011 census result
+129 	 Fiji 	18,333 	7,078 	884,887 	48 	124 	September 17, 2017 	Official census result
+130 	 South Africa 	1,220,813 	471,359 	58,775,022 	48 	124 	July 1, 2019 	Official estimate
+131 	 Equatorial Guinea 	28,051 	10,831 	1,358,276 	48 	124 	July 1, 2018 	Official estimate
+132 	 Djibouti 	23,000 	8,880 	1,078,373 	47 	122 	July 1, 2019 	Official projection
+133 	 Belarus 	207,600 	80,155 	9,397,800 	46 	119 	April 1, 2020 	Quarterly official estimate
+134 	 Liberia 	97,036 	37,466 	4,475,353 	46 	119 	July 1, 2019 	Official projection
+135 	 Montenegro 	13,812 	5,333 	622,182 	45 	117 	January 1, 2019 	Official estimate
+136 	 Madagascar 	587,041 	226,658 	25,680,342 	44 	114 	May 18, 2018 	Official Census
+137 	 Guinea-Bissau 	36,125 	13,948 	1,604,528 	44 	114 	July 1, 2019 	Official annual projection
+138 	 Lithuania 	65,300 	25,212 	2,793,466 	43 	111 	November 1, 2019 	Monthly official estimate
+139 	 Colombia 	1,141,748 	440,831 	46,271,400 	41 	105 	May 6, 2020 	Official population clock
+140 	 Palau 	444 	171 	17,900 	40 	104 	July 1, 2018 	Official estimate[permanent dead link]
+– 	 Cocos (Keeling) Islands (Australia) 	14 	5 	544 	39 	101 	August 9, 2016 	census result
+141 	 Zimbabwe 	390,757 	150,872 	15,159,624 	39 	101 	July 1, 2019 	Official annual projection
+142 	 Democratic Republic of the Congo 	2,345,095 	905,446 	86,790,567 	37 	96 	July 1, 2019 	UN projection
+143 	 Mozambique 	799,380 	308,642 	28,571,310 	36 	93 	July 1, 2019 	Official projection
+144 	 Venezuela 	916,445 	353,841 	32,219,521 	35 	91 	July 1, 2019 	Official annual projection
+– 	 Faroe Islands (Denmark) 	1,399 	540 	50,844 	34 	88 	May 1, 2018 	Official monthly estimate
+145 	 United States of America 	9,833,517 	3,796,742 	329,640,573 	34 	87 	May 6, 2020 	Official population clock
+146 	 Kyrgyzstan 	199,945 	77,199 	6,309,300 	32 	83 	June 1, 2018 	Official estimate
+147 	 Latvia 	64,562 	24,928 	1,910,400 	30 	78 	October 1, 2019 	Official monthly estimate
+148 	 Estonia 	45,339 	17,505 	1,324,820 	29 	75 	January 1, 2019 	Official estimate
+149 	 Eritrea 	121,100 	46,757 	3,497,117 	29 	75 	July 1, 2019 	UN projection
+150 	 Bahamas 	13,940 	5,382 	386,870 	28 	73 	July 1, 2018 	Official projection
+– 	 Abkhazia[note 6] 	8,660 	3,344 	243,206 	28 	73 	April 27, 2018 	
+151 	 Laos 	236,800 	91,429 	6,492,400 	27 	70 	March 1, 2015 	Preliminary 2015 census result
+– 	Saint Pierre and Miquelon (France) 	242 	2,605 	6,081 	25 	65 	January 1, 2010 	Official estimate
+152 	 Peru 	1,285,216 	496,225 	32,162,184 	25 	65 	July 1, 2018 	Official estimate
+153 	 Vanuatu 	12,281 	4,742 	304,500 	25 	65 	July 1, 2018 	Official estimate[permanent dead link]
+154 	 Brazil 	8,515,767 	3,287,956 	211,486,755 	25 	64 	May 6, 2020 	Official population clock
+155 	 Somalia 	637,657 	246,201 	15,181,925 	24 	62 	July 1, 2018 	UN projection
+156 	 Solomon Islands 	28,370 	10,954 	682,500 	24 	62 	July 1, 2018 	Official estimate[permanent dead link]
+157 	 Angola 	1,246,700 	481,354 	29,250,009 	23 	60 	January 1, 2018 	Official estimate
+158 	 Chile 	756,096 	291,930 	17,373,831 	23 	60 	August 31, 2017 	Preliminary 2017 census result
+159 	 Sweden 	450,295 	173,860 	10,380,405 	23 	60 	May 6, 2020 	Official population clock
+160 	 Zambia 	752,612 	290,585 	16,405,229 	22 	57 	July 1, 2017 	Official annual projection
+161 	 Sudan 	1,839,542 	710,251 	40,782,742 	22 	57 	July 1, 2017 	Official annual projection
+162 	 Bhutan 	38,394 	14,824 	825,912 	22 	56 	May 6, 2020 	Official population clock
+163 	 Uruguay[note 7][clarification needed] 	176,215 	68,037 	3,518,553 	20 	52 	June 30, 2019 	Official annual projection
+164 	 South Sudan 	644,329 	248,777 	12,778,250 	20 	52 	July 1, 2019 	Official annual projection
+165 	 Niger 	1,186,408 	458,075 	22,314,743 	19 	49 	July 1, 2019 	Official annual projection
+166 	 Papua New Guinea 	462,840 	178,704 	8,935,000 	19 	49 	July 1, 2020 	Annual official estimate
+167 	 New Zealand 	270,467 	104,428 	4,983,584 	18 	48 	May 6, 2020 	Official population clock
+168 	 Algeria 	2,381,741 	919,595 	43,000,000 	18 	47 	January 1, 2019 	Official projection
+169 	 Paraguay 	406,752 	157,048 	7,052,983 	17 	44 	July 1, 2018 	Official projection
+170 	 Belize 	22,965 	8,867 	398,050 	17 	44 	July 1, 2018 	Official annual estimate
+171 	 Norway 	323,808 	125,023 	5,367,580 	17 	44 	January 1, 2020 	Official quarterly estimate
+172 	 Finland 	338,424 	130,666 	5,527,405 	16 	41 	December 20, 2019 	Official monthly estimate
+173 	 Argentina 	2,780,400 	1,073,518 	44,938,712 	16 	41 	July 1, 2019 	Annual official estimate
+174 	 Saudi Arabia 	2,149,690 	830,000 	34,218,169 	16 	41 	January 1, 2019 	Annual official estimate
+175 	 Republic of the Congo 	342,000 	132,047 	5,399,895 	16 	41 	July 1, 2018 	UN projection
+176 	 Mali 	1,248,574 	482,077 	19,107,706 	15 	39 	July 1, 2018 	UN projection
+– 	 Christmas Island (Australia) 	137 	53 	2,072 	15 	39 	August 9, 2011 	2011 census result
+– 	 New Caledonia (France) 	18,575 	7,172 	258,958 	14 	36 	July 1, 2013 	Official estimate
+177 	 Oman 	309,500 	119,499 	4,183,841 	14 	36 	June 9, 2015 	Weekly official estimate
+– 	 Saint Helena, Ascension and Tristan da Cunha (United Kingdom) 	394 	152 	5,633 	14 	36 	February 7, 2016 	2016 census result
+– 	 South Ossetia[note 9] 	3,900 	1,506 	53,532 	14 	36 	August 11, 2016 	
+– 	 Artsakh[note 10] 	11,458 	4,424 	150,932 	13 	34 	October 14, 2015 	
+178 	 Turkmenistan 	491,210 	189,657 	5,851,466 	12 	31 	July 1, 2018 	UN projection
+179 	 Chad 	1,284,000 	495,755 	15,353,184 	12 	31 	July 1, 2018 	UN projection
+180 	 Bolivia 	1,098,581 	424,164 	11,307,314 	10 	26 	July 1, 2018 	Official projection
+181 	 Russia[note 11] 	17,125,242 	6,612,093 	146,877,088 	9 	23 	January 1, 2018 	Official estimate
+182 	 Gabon 	267,667 	103,347 	2,067,561 	8 	21 	July 1, 2018 	UN projection
+183 	 Central African Republic 	622,436 	240,324 	4,737,423 	8 	21 	July 1, 2018 	UN projection
+184 	 Kazakhstan 	2,724,900 	1,052,090 	18,592,700 	7 	18 	January 4, 2020 	Official monthly estimate
+185 	 Botswana 	581,730 	224,607 	2,302,878 	4 	10.4 	July 1, 2018 	Official projection
+186 	 Mauritania 	1,030,700 	397,955 	3,984,233 	4 	10.4 	July 1, 2018 	Official projection
+187 	 Canada 	9,984,670 	3,855,103 	38,018,863 	4 	10 	May 6, 2020 	Official estimate
+188 	 Libya 	1,770,060 	683,424 	6,470,956 	3.7 	9.6 	July 1, 2018 	UN projection
+189 	 Guyana 	214,999 	83,012 	782,225 	3.6 	9.3 	July 1, 2018 	UN projection
+190 	 Suriname 	163,820 	63,251 	568,301 	3.5 	9.1 	July 1, 2018 	UN projection
+191 	 Iceland 	102,775 	39,682 	360,390 	3.5 	9.1 	June 30, 2019 	Official estimate
+192 	 Australia 	7,692,024 	2,969,907 	25,700,309 	3 	9 	May 6, 2020 	Official estimate
+193 	 Namibia 	825,118 	318,580 	2,413,643 	2.9 	7.5 	July 1, 2018 	Official projection
+194 	 Mongolia 	1,564,100 	603,902 	3,000,000 	1.9 	4.9 	January 24, 2015 	Official estimate
+– 	 Greenland (Denmark) 	2,166,000 	836,297 	55,877 	0.03 	0.08 	January 1, 2018 	Official estimate

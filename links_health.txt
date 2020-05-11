@@ -1,0 +1,19 @@
+https://en.wikipedia.org/wiki/List_of_countries_with_universal_health_care
+https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita - USA highest
+https://en.wikipedia.org/wiki/List_of_countries_by_health_expenditure_covered_by_government
+https://en.wikipedia.org/wiki/Health_care_systems_by_country
+
+
+https://en.wikipedia.org/wiki/List_of_freedom_indices - democracy index
+https://en.wikipedia.org/wiki/International_Innovation_Index
+
+Corona cases from here: status 6.5.2020
+https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data/resource/55e8f966-d5c8-438e-85bc-c7a5a26f4863
+
+
+Public expenditure of public spending on health (% of GDP)
+
+https://ourworldindata.org/grapher/public-health-expenditure-share-gdp-owid?tab=map&country=AUS+JPN+USA+SWE+ESP+DEU+BEL+FRA+GBR+MAR
+
+Public expenditure on healthcare as percent of total healthcare expenditure, 1995 to 2014
+https://ourworldindata.org/grapher/share-of-public-expenditure-on-healthcare-by-country?country=CHN+IND+KOR+USA+RUS+GBR+NOR
